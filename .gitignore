@@ -16,3 +16,6 @@
 /sol?/
 /myapi.key
 /.suf
+tags
+cscope.out
+__pycache__
